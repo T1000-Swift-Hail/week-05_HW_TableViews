@@ -11,7 +11,7 @@
 
 
 ## Bonus 
-- Display an image next to each city.  
+- Display a related image next to each city.  
 
 
 ## Your application should look similar to the following:
