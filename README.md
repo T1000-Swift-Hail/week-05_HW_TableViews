@@ -1,4 +1,4 @@
-# week-05_TableViews
+# week-05_HW_TableViews
 
 ## Using table views , Make an application that displayes the cities you visited , and the cities you want to visit.
 - Create a Table View Controller in your storyBoard.
