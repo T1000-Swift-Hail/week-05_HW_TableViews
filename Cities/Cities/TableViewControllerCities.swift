@@ -24,6 +24,7 @@ class TableViewControllerCities: UITableViewController {
         label5.text = "Jeddah"
         label6.text = "Tabuk"
         
+        
         // Uncomment the following line to preserve selection between presentations
         // self.clearsSelectionOnViewWillAppear = false
 
