@@ -31,6 +31,10 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="حايل" translatesAutoresizingMaskIntoConstraints="NO" id="9pK-Ms-JST">
+                                                    <rect key="frame" x="205" y="-8" width="135" height="59"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                </imageView>
                                             </subviews>
                                             <constraints>
                                                 <constraint firstAttribute="trailingMargin" secondItem="zvR-PG-hCX" secondAttribute="trailing" constant="-316" id="8Hs-98-DHF"/>
@@ -52,6 +56,10 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="الدمام" translatesAutoresizingMaskIntoConstraints="NO" id="b5E-1K-EmS">
+                                                    <rect key="frame" x="205" y="0.0" width="136" height="44"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                </imageView>
                                             </subviews>
                                             <constraints>
                                                 <constraint firstAttribute="trailingMargin" secondItem="635-TN-WLy" secondAttribute="trailing" constant="-297" id="9Bs-be-RTy"/>
@@ -73,6 +81,10 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="القصيم" translatesAutoresizingMaskIntoConstraints="NO" id="U1f-ML-jXK">
+                                                    <rect key="frame" x="205" y="0.0" width="137" height="44"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                </imageView>
                                             </subviews>
                                             <constraints>
                                                 <constraint firstItem="UZB-v6-QQJ" firstAttribute="leading" secondItem="nua-8A-KgE" secondAttribute="leadingMargin" id="Tj5-RB-MHr"/>
@@ -98,6 +110,10 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="tubok" translatesAutoresizingMaskIntoConstraints="NO" id="j6z-5r-uxH">
+                                                    <rect key="frame" x="210" y="1" width="136" height="43"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                </imageView>
                                             </subviews>
                                             <constraints>
                                                 <constraint firstItem="v0H-qa-kCu" firstAttribute="centerY" secondItem="S4P-c0-reK" secondAttribute="centerY" id="7ac-cr-KQw"/>
@@ -119,6 +135,10 @@
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="jeddah" translatesAutoresizingMaskIntoConstraints="NO" id="rQs-Rg-fZE">
+                                                    <rect key="frame" x="209" y="0.0" width="138" height="44"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                </imageView>
                                             </subviews>
                                             <constraints>
                                                 <constraint firstItem="ebx-lo-V3H" firstAttribute="leading" secondItem="O1S-cp-XBM" secondAttribute="leadingMargin" id="KM1-yi-Tw3"/>
@@ -128,23 +148,28 @@
                                         </tableViewCellContentView>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" id="TYo-1c-2Tf">
-                                        <rect key="frame" x="0.0" y="329" width="414" height="43.5"/>
+                                        <rect key="frame" x="0.0" y="329" width="414" height="43"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="TYo-1c-2Tf" id="8D8-5H-eJz">
-                                            <rect key="frame" x="0.0" y="0.0" width="414" height="43.5"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="414" height="43"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Khobar" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="mcF-tI-m5n">
-                                                    <rect key="frame" x="20" y="11.5" width="55" height="21"/>
+                                                    <rect key="frame" x="20" y="11" width="55" height="21"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="khobar" translatesAutoresizingMaskIntoConstraints="NO" id="axD-99-JxU">
+                                                    <rect key="frame" x="209" y="0.0" width="138" height="44"/>
+                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                                </imageView>
                                             </subviews>
                                             <constraints>
                                                 <constraint firstItem="mcF-tI-m5n" firstAttribute="bottom" secondItem="8D8-5H-eJz" secondAttribute="bottomMargin" id="aET-Nn-L7g"/>
                                                 <constraint firstItem="mcF-tI-m5n" firstAttribute="centerY" secondItem="8D8-5H-eJz" secondAttribute="centerY" id="b7c-AS-YWo"/>
                                                 <constraint firstItem="mcF-tI-m5n" firstAttribute="leading" secondItem="8D8-5H-eJz" secondAttribute="leadingMargin" id="pm0-cb-Jv4"/>
+                                                <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="mcF-tI-m5n" secondAttribute="trailing" constant="20" symbolic="YES" id="qTc-Nh-I9A"/>
                                             </constraints>
                                         </tableViewCellContentView>
                                     </tableViewCell>
@@ -163,6 +188,12 @@
         </scene>
     </scenes>
     <resources>
+        <image name="jeddah" width="2000" height="1334"/>
+        <image name="khobar" width="275" height="183"/>
+        <image name="tubok" width="700" height="393"/>
+        <image name="الدمام" width="630" height="300"/>
+        <image name="القصيم" width="800" height="602"/>
+        <image name="حايل" width="1200" height="1175"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
