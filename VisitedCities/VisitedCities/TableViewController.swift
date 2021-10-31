@@ -25,6 +25,7 @@ class TableViewController: UITableViewController {
     
     
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         Cityv1.text = "Abha"
@@ -33,7 +34,8 @@ class TableViewController: UITableViewController {
         cityW1.text = "Tabuk"
         cityW2.text = "Jeddah"
         cityW3.text = "Khobar"
-
+       
+        
     }
 
     // MARK: - Table view data source
